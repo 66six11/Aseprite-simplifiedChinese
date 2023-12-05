@@ -8,7 +8,7 @@
 
 * [正式版本（v1.3.1）](https://github.com/66six11/Aseprite-simplifiedChinese/blob/main/Formal-Chinese/hanhua-1.3.1%20v3.6.aseprite-extension)
 * 适配aseprit版本 1.3.2 / 1.3.1 / 1.3
-* 该汉化基于[J-11](https://github.com/J-11/Aseprite-Simplified-Chinese); 翻译的rc1版本基础上扩展翻译
+* 该汉化基于[J-11](https://github.com/J-11/Aseprite-Simplified-Chinese); 翻译的rc1版本上扩展翻译
 * 如汉化有不恰当等问题可issue反馈
 * 目前仍是英文的部分是暂时无法翻译
 
