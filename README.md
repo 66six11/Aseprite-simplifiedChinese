@@ -1,5 +1,6 @@
 # Aseprite相关内容
 有关aseprite相关内容请转至[Aseprite官网](https://www.aseprite.org/)
+
 其他本地化翻译请转至[Aseprite语言](https://www.aseprite.org/languages/)
 
 aseprite汉化包
