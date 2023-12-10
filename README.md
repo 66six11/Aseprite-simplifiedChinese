@@ -6,7 +6,7 @@
 ---
 # aseprite汉化包
 
-* [正式版本（v1.3.1）](https://github.com/66six11/Aseprite-simplifiedChinese/blob/main/Formal-Chinese/hanhua-1.3.1%20v3.6.aseprite-extension)`适配aseprit版本 1.3.2 / 1.3.1 / 1.3(文本无变动)`
+* [正式版本（v1.3.1）](https://github.com/66six11/Aseprite-simplifiedChinese/blob/main/Formal-Chinese/chinese.aseprite-extension)`适配aseprit版本 1.3.2 / 1.3.1 / 1.3(文本无变动)`
 * 66six11和[斯尔娜娜](https://space.bilibili.com/142481097?spm_id_from=333.337.0.0)校对
 * 如汉化有不恰当等问题可issue反馈
 * 目前仍是英文的部分是暂时无法翻译
